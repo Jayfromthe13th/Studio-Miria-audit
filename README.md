@@ -11,7 +11,7 @@ Studio Mirai is a lifestyle brand focused on innovative NFT collections and inte
 - **Technological Integration**: Studio Mirai utilizes the full spectrum of Sui's capabilities, such as fast path transactions, shared objects, and on-chain storage solutions to enhance their NFTs' functionality and interactivity within the blockchain space.
 - **Future Prospects**: Studio Mirai continues to expand its influence within the Sui ecosystem, partnering with various tech and creative entities to push the boundaries of what can be achieved with NFT technology on modern blockchains.
 
-For more detailed information, explore [here](https://twitter.com/_StudioMirai).
+For more project details, explore [here](https://twitter.com/_StudioMirai).
 
 ## Audit Summary
 
